@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\rimsh\OneDrive\Desktop\Uqba\sda project\main.cpp(276,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rimsh\OneDrive\Desktop\Uqba\sda project\main.cpp(277,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\rimsh\OneDrive\Desktop\Uqba\sda project\x64\Debug\sda project.exe : fatal error LNK1120: 1 unresolved externals
