@@ -5,3 +5,4 @@ This line was updated locally at the same time.
 This line was added remotely again for rebase example.
 This line was added locally for rebase example.
 test line
+This line was added on GitHub.
